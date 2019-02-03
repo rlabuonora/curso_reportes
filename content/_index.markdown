@@ -7,7 +7,9 @@ title: Inicio
 # Reportes Automáticos en R![](/content/_index_files/Rlogo.svg)![](/content/_index_files/R.png)
 
   
-El curso está orientado a participantes interesados en automatizar procesos de elaboración de reportes estadísticos y visualizaciones sobre bases de datos externas. Para esto, se presenta el uso del lenguaje R, que permite escribir scripts para extraer información de bases de datos externas, elaborar tablas y gráficos y crear documentos word o pdf automáticamente.
+El curso presenta el uso del lenguaje R en un flujo de trabajo que permite importar datos, analizarlos y comunicar resultados obtenidos.
 
-Está estructurado en 4 módulos. En el primero, los participantes se familiarizan con el lenguaje R y el entorno de programación R Studio. En el segundo módulo se introducen los comandos para realizar consultas a la base de datos y modificar la estructura de los resultados. En el tercer módulo se introduce la librería de visualización de datos ggplot. La misma permite crear gráficos para publicación en forma automatizable. En el módulo final se presentan las principales herramientas disponibles para integrar los resultados a reportes en formato word o pdf.
+En este sitio se encuentran los materiales del curso (diapos de las sesiones presenciales y materiales para los ejercicios).
+
+# Sesiones:
 
