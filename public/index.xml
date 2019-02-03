@@ -28,7 +28,7 @@ Alcance El curso cubre el material de R4DS, un libro introductorio a R y el tidy
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bibliografia/</guid>
-      <description>R4ds</description>
+      <description>El curso se basa en el libro R para Ciencia de Datos de Garrett Grolemund y Hadley Wickham. Las sesiones presenciales tienen links a materiales de otras fuentes.</description>
     </item>
     
     <item>
@@ -37,8 +37,9 @@ Alcance El curso cubre el material de R4DS, un libro introductorio a R y el tidy
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/curso/</guid>
-      <description>Importar Datos Desde archivos de texto y planillas de excel.
-Data Wrangling Select, filter, mutate.</description>
+      <description>Introducción En el módulo introductorio hacemos una introducción al uso de R y al flujo de trabajo asociado al tidyverse, ilustrado en el siguiente diagrama:
+Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos.
+Las herramientas del tidyverse dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea reproducible.</description>
     </item>
     
   </channel>

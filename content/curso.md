@@ -2,12 +2,49 @@
 title: Curso
 ---
 
+## Introducción
+
+En el módulo introductorio hacemos una introducción al uso de R y al flujo de trabajo asociado al `tidyverse`, ilustrado en el siguiente diagrama:
+
 ![](/./curso_files/data-science.png)
 
-## Importar Datos
+Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos. 
 
-Desde archivos de texto y planillas de excel.
+Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea __reproducible__. Los participantes del curso desarrollarán una solución a medida en [RStudio Cloud](https://rstudio.cloud/). 
 
-## Data Wrangling
+## Importar
 
-Select, filter, mutate.
+R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online). En este módulo nos centramos en las funciones para importar desde archivos de texto y planillas de excel.
+
++ Sesión 2: Importar datos con `readr` 
+    + Importar archivos de texto plano con `read_csv()`
+    + Importar archivos de excel con `read_xls()` y `read_xlsx()`
+
+## Transformar
+
++ Sesión 4 `dplyr` (1) -
+    + Seleccionar columnas con `select()`
+    + Crear nuevas columnas con `mutate()`
+    + Filtrar filas con `filter()`
+    + Ordenar con `arrange()`
++ Sesión 5 `dplyr` (2)
+    + Pasar de wide a long con `gather`
+    + Unir tablas con `*_join()`
+    + Pasar de long a wide con `spread`
+    
++ Sesión 6 `forcats` & `lubridate`
+
+## Visualizar
+
+En este módulo introducimos la gramática de gráficos y el paquete `ggplot`.
+
++ Sesión 6: `ggplot` (1) - Gramática de gráficos
++ Sesión 7 `ggpot` (2) - Distintos tipos de gráficos
+
+## Modelar
+
+Ajustar modelos.
+
+## Comunicar
+
+Los proyectos de análisis de datos tienen como resultado un output con las conclusiones que puede ser un documento word o pdf, una presentación de power point, una página web, etc. Comunicar los resultados obtenidos es una parte esencial del proceso de análisis de datos, y R tiene herramientas para darle soporte.
