@@ -6,16 +6,13 @@ El curso presenta el flujo de trabajo ilustrado en el siguiente diagrama:
 
 ![](/./curso_files/data-science.png)
 
-Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos. 
-
-Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea __reproducible__.  
+Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos. Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea __reproducible__.  
 
 
 ## Módulo 1: Visualización con `ggplot`
 
 
-
-+ Sesión 1: La gramática de gráficos
++ Sesión 1: La gramática de gráficos [slides](https://modulo1.netlify.com/)
     + Introducción
     + Aesthetics
     + Geoms
