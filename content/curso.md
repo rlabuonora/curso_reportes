@@ -2,17 +2,29 @@
 title: Curso
 ---
 
-## Introducción
-
-En el módulo introductorio hacemos una introducción al uso de R y al flujo de trabajo asociado al `tidyverse`, ilustrado en el siguiente diagrama:
+El curso presenta el flujo de trabajo ilustrado en el siguiente diagrama:
 
 ![](/./curso_files/data-science.png)
 
 Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos. 
 
-Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea __reproducible__. Los participantes del curso desarrollarán una solución a medida en [RStudio Cloud](https://rstudio.cloud/). 
+Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea __reproducible__.  
 
-## Importar
+
+## Módulo 1: Visualización con `ggplot`
+
+
+
++ Sesión 1: La gramática de gráficos
+    + Introducción
+    + Aesthetics
+    + Geoms
+    + Facets
+    + Transforms
+    + Posición
+    + Ejercicios: Gráficos de Torta, gráficos de barra, gráficos de línea
+
+## Módulo 2: Importar datos
 
 R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online). En este módulo nos centramos en las funciones para importar desde archivos de texto y planillas de excel.
 
@@ -20,7 +32,7 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
     + Importar archivos de texto plano con `read_csv()`
     + Importar archivos de excel con `read_xls()` y `read_xlsx()`
 
-## Transformar
+## Transformar Datos con `dplyr`
 
 + Sesión 4 `dplyr` (1) -
     + Seleccionar columnas con `select()`

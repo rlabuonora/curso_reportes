@@ -6,8 +6,7 @@ title: Inicio
 
 # Reportes Automáticos en R![](/content/_index_files/Rlogo.svg)![](/content/_index_files/R.png)
 
-  
-El curso presenta el uso del lenguaje R en un flujo de trabajo que permite automatizar el proceso de importar y analizar datos, para luego generar reportes de los resultados obtenidos. En este sitio se encuentran los materiales del curso (diapos de las sesiones presenciales y materiales para los ejercicios).
+El curso presenta el uso del lenguaje R en un flujo de trabajo que permite automatizar el proceso de importar y analizar datos, para luego generar reportes de los resultados obtenidos. En este sitio se encuentran los materiales del curso. Los participantes del curso desarrollarán una solución a medida en [RStudio Cloud](https://rstudio.cloud/).
 
 # Sesiones:
 
