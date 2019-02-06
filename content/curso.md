@@ -12,11 +12,12 @@ Todos los proyectos de análisis de datos incluyen estas etapas en distintos niv
 ## Módulo 1: Visualización con `ggplot`
 
 
-+ Sesión 1: La gramática de gráficos [slides](https://modulo1.netlify.com/)
++ Sesión 1: La gramática de gráficos y `ggplot` [ [slides](https://modulo1.netlify.com/) ]
     + Introducción
     + Aesthetics
     + Geoms
     + Facets
++ Sesión 2: La gramática de gráficos y `ggplot`
     + Transforms
     + Posición
     + Ejercicios: Gráficos de Torta, gráficos de barra, gráficos de línea
@@ -29,7 +30,7 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
     + Importar archivos de texto plano con `read_csv()`
     + Importar archivos de excel con `read_xls()` y `read_xlsx()`
 
-## Transformar Datos con `dplyr`
+## Módulo 3: Transformar Datos con `dplyr`
 
 + Sesión 4 `dplyr` (1) -
     + Seleccionar columnas con `select()`
@@ -43,17 +44,13 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
     
 + Sesión 6 `forcats` & `lubridate`
 
-## Visualizar
 
-En este módulo introducimos la gramática de gráficos y el paquete `ggplot`.
-
-+ Sesión 6: `ggplot` (1) - Gramática de gráficos
-+ Sesión 7 `ggpot` (2) - Distintos tipos de gráficos
-
-## Modelar
+## Módulo 4: Modelos
 
 Ajustar modelos.
 
-## Comunicar
+## Módulo 5: Comunicación de Resultados
 
 Los proyectos de análisis de datos tienen como resultado un output con las conclusiones que puede ser un documento word o pdf, una presentación de power point, una página web, etc. Comunicar los resultados obtenidos es una parte esencial del proceso de análisis de datos, y R tiene herramientas para darle soporte.
+
++ Sesión 7 Markdown y RMarkdown
