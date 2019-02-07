@@ -1,28 +1,36 @@
 ---
-title: Curso
+title: Cronograma
 ---
 
-El curso presenta el flujo de trabajo ilustrado en el siguiente diagrama:
 
-![](/./curso_files/data-science.png)
-
-Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos. Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea __reproducible__.  
-
+## Módulo 0: Preliminares
+<hr>
++ Sesión 1
+    + Presentación y objetivos.
+    + Estructura del curso y de las sesiones presenciales.
+    + R, RStudio, RStudio Cloud.
 
 ## Módulo 1: Visualización con `ggplot`
+<hr>
+
 
 
 + Sesión 1: La gramática de gráficos y `ggplot` [ [slides](https://modulo1.netlify.com/) ]
     + Introducción
-    + Aesthetics
-    + Geoms
-    + Facets
+    + Atributos estéticos: aesthetics
+    + Formas: geoms
+    + Gráficos por sub grupos: facets
 + Sesión 2: La gramática de gráficos y `ggplot`
     + Transforms
-    + Posición
-    + Ejercicios: Gráficos de Torta, gráficos de barra, gráficos de línea
+    + Ajustar posiciones
+    + Ejercicios 
+        + Gráficos de Torta 
+        + Gráficos de Barra
+        + Gráficos de Línea
 
 ## Módulo 2: Importar datos
+<hr>
+
 
 R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online). En este módulo nos centramos en las funciones para importar desde archivos de texto y planillas de excel.
 
@@ -31,8 +39,10 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
     + Importar archivos de excel con `read_xls()` y `read_xlsx()`
 
 ## Módulo 3: Transformar Datos con `dplyr`
+<hr>
 
-+ Sesión 4 `dplyr` (1) -
+
++ Sesión 4 `dplyr` (1)
     + Seleccionar columnas con `select()`
     + Crear nuevas columnas con `mutate()`
     + Filtrar filas con `filter()`
@@ -46,10 +56,13 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
 
 
 ## Módulo 4: Modelos
+<hr>
+
 
 Ajustar modelos.
 
 ## Módulo 5: Comunicación de Resultados
+<hr>
 
 Los proyectos de análisis de datos tienen como resultado un output con las conclusiones que puede ser un documento word o pdf, una presentación de power point, una página web, etc. Comunicar los resultados obtenidos es una parte esencial del proceso de análisis de datos, y R tiene herramientas para darle soporte.
 
