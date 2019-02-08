@@ -8,14 +8,14 @@ title: Inicio
 
 # Reportes Automáticos en R![](/content/_index_files/Rlogo.svg)![](/content/_index_files/R.png)
 
-Un _flujo de trabajo_ que permite automatizar el proceso de importar y analizar datos, para luego generar reportes de los resultados obtenidos. 
+Las herramientas del `tidyverse` facilitan un flujo de trabajo que permite automatizar el proceso de importar y analizar datos, para luego generar reportes para comunicar los resultados obtenidos:
 
 ![](/./curso_files/data-science.png)
 
 
-Todos los proyectos de análisis de datos incluyen estas etapas en distintos niveles de complejidad: importar los datos, transformarlos, modelizarlos, visualizarlos y comunicar los resultados obtenidos. Las herramientas del `tidyverse` dan soporte a este flujo de trabajo para que el proceso de análisis de datos sea _reproducible_. 
+El curso incluye 10 sesiones presenciales en las que se exponene las principales funcionalidades del `tidyverse`, se proponen una serie de ejercicios prácticos. Como resultado de estos ejercicios, los participantes avanzan en la construcción de una solución de Reportes Automáticos a medida.
 
-Cada sesión presencial tiene una serie de ejercicios finales donde se desarrolla una solución de reportes automáticos. El ambiente de trabajo para desarrollar  esta solución es [RStudio Cloud](https://rstudio.cloud/), por lo que los participantes deben tener una cuenta en el sitio.
+El ambiente de trabajo para desarrollar  esta solución es [RStudio Cloud](https://rstudio.cloud/), por lo que los participantes deben tener una cuenta en el sitio.
 
 # Sesiones:
 
