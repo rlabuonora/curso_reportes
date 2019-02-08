@@ -1,7 +1,7 @@
 ---
 title: Cronograma
 ---
-
+<i class="fab fa-fort-awesome"></i>
 
 ## Módulo 0: Preliminares [ [slides](https://modulo0.netlify.com/) ]
 <hr>
