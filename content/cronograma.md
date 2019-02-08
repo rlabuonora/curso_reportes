@@ -3,7 +3,9 @@ title: Cronograma
 ---
 
 
+
 ## Módulo 0: Preliminares [<i class="fab fa-presentation"></i>](https://modulo0.netlify.com/)
+
 <hr>
 + Sesión 1
     + Presentación y objetivos.
