@@ -4,15 +4,14 @@ title: Cronograma
 
 
 
-## Módulo 0: Preliminares [<i class="fab fa-presentation"></i>](https://modulo0.netlify.com/)
-
+## Módulo 0: Preliminares <a style="float:right;" href="https://modulo0.netlify.com/"><i class="far fa-sticky-note"></i></a>
 <hr>
 + Sesión 1
     + Presentación y objetivos.
     + Estructura del curso y de las sesiones presenciales.
     + R, RStudio, RStudio Cloud.
 
-## Módulo 1: Visualización con `ggplot` [ [slides](https://modulo1.netlify.com/) ]
+## Módulo 1: Visualización con `ggplot` <a style="float:right;" href="https://modulo1.netlify.com/"><i class="far fa-sticky-note"></i></a>
 <hr>
 
 
@@ -30,7 +29,7 @@ title: Cronograma
         + Gráficos de Barra
         + Gráficos de Línea
 
-## Módulo 2: Importar datos [ [slides](https://modulo-2.netlify.com/) ]
+## Módulo 2: Importar datos <a style="float:right;" href="https://modulo-2.netlify.com/"><i class="far fa-sticky-note"></i></a>
 <hr>
 
 
@@ -40,7 +39,7 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
     + Importar archivos de texto plano con `read_csv()`
     + Importar archivos de excel con `read_xls()` y `read_xlsx()`
 
-## Módulo 3: Transformar Datos con `dplyr` [ [slides](https://modulo3.netlify.com/) ]
+## Módulo 3: Transformar Datos con `dplyr` <a style="float:right;" href="https://modulo3.netlify.com/"><i class="far fa-sticky-note"></i></a>
 <hr>
 
 
@@ -57,13 +56,14 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
 + Sesión 6 `forcats` & `lubridate`
 
 
-## Módulo 4: Modelos [ [slides](https://modulo4.netlify.com/) ]
+## Módulo 4: Modelos <a style="float:right;" href="https://modulo4.netlify.com/"><i class="far fa-sticky-note"></i></a>
 <hr>
 
 
 Ajustar modelos.
 
-## Módulo 5: Comunicación de Resultados [ [slides](https://modulo5.netlify.com/) ]
+## Módulo 5: Comunicación de Resultados <a style="float:right;" href="https://modulo5.netlify.com/"><i class="far fa-sticky-note"></i></a>
+
 <hr>
 
 Los proyectos de análisis de datos tienen como resultado un output con las conclusiones que puede ser un documento word o pdf, una presentación de power point, una página web, etc. Comunicar los resultados obtenidos es una parte esencial del proceso de análisis de datos, y R tiene herramientas para darle soporte.
