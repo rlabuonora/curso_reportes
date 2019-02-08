@@ -3,19 +3,19 @@ title: Cronograma
 ---
 
 
-## Módulo 0: Preliminares
+## Módulo 0: Preliminares [ [slides](https://modulo0.netlify.com/) ]
 <hr>
 + Sesión 1
     + Presentación y objetivos.
     + Estructura del curso y de las sesiones presenciales.
     + R, RStudio, RStudio Cloud.
 
-## Módulo 1: Visualización con `ggplot`
+## Módulo 1: Visualización con `ggplot` [ [slides](https://modulo1.netlify.com/) ]
 <hr>
 
 
 
-+ Sesión 1: La gramática de gráficos y `ggplot` [ [slides](https://modulo1.netlify.com/) ]
++ Sesión 1: La gramática de gráficos y `ggplot` 
     + Introducción
     + Atributos estéticos: aesthetics
     + Formas: geoms
@@ -28,7 +28,7 @@ title: Cronograma
         + Gráficos de Barra
         + Gráficos de Línea
 
-## Módulo 2: Importar datos
+## Módulo 2: Importar datos [ [slides](https://modulo-2.netlify.com/) ]
 <hr>
 
 
@@ -38,7 +38,7 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
     + Importar archivos de texto plano con `read_csv()`
     + Importar archivos de excel con `read_xls()` y `read_xlsx()`
 
-## Módulo 3: Transformar Datos con `dplyr`
+## Módulo 3: Transformar Datos con `dplyr` [ [slides](https://modulo3.netlify.com/) ]
 <hr>
 
 
@@ -55,13 +55,13 @@ R permite importar datos desde una gran variedad de fuentes (archivos de texto p
 + Sesión 6 `forcats` & `lubridate`
 
 
-## Módulo 4: Modelos
+## Módulo 4: Modelos [ [slides](https://modulo4.netlify.com/) ]
 <hr>
 
 
 Ajustar modelos.
 
-## Módulo 5: Comunicación de Resultados
+## Módulo 5: Comunicación de Resultados [ [slides](https://modulo5.netlify.com/) ]
 <hr>
 
 Los proyectos de análisis de datos tienen como resultado un output con las conclusiones que puede ser un documento word o pdf, una presentación de power point, una página web, etc. Comunicar los resultados obtenidos es una parte esencial del proceso de análisis de datos, y R tiene herramientas para darle soporte.
