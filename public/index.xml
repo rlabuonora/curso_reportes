@@ -17,9 +17,9 @@
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/02/02/tour-r/</guid>
-      <description>Un Tour de R En este taller damos un panorama de las capacidades de R y como presentamos algunos casos de uso. Presentamos las principales ventajas de R, la comunidad y los principales recursos disponibles para aprender el lenguaje y las principales librerías.
-Se presenta el curso, su alcance y filosofía.
-Alcance El curso cubre el material de R4DS, un libro introductorio a R y el tidyverse escrito por Hadley Wickham y Garrett Grolemund.</description>
+      <description> Un Tour de R En este taller damos un panorama de las capacidades de R y como presentamos algunos casos de uso. Presentamos las principales ventajas de R, la comunidad y los principales recursos disponibles para aprender el lenguaje y las principales librerías.
+Objetivos Luego de esta clase, los participantes tienen:
+ Una cuenta en RStudio Cloud. Acceso al sitio del curso  </description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@ Alcance El curso cubre el material de R4DS, un libro introductorio a R y el tidy
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cronograma/</guid>
-      <description>Módulo 0: Preliminares   Sesión 1  Presentación y objetivos. Estructura del curso y de las sesiones presenciales. R, RStudio, RStudio Cloud.   Módulo 1: Visualización con ggplot   Sesión 1: La gramática de gráficos y ggplot [ slides ]  Introducción Atributos estéticos: aesthetics Formas: geoms Gráficos por sub grupos: facets  Sesión 2: La gramática de gráficos y ggplot  Transforms Ajustar posiciones Ejercicios  Gráficos de Torta Gráficos de Barra Gráficos de Línea    Módulo 2: Importar datos  R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online).</description>
+      <description>Módulo 0: Preliminares    Sesión 1  Presentación y objetivos. Estructura del curso y de las sesiones presenciales. R, RStudio, RStudio Cloud.   Módulo 1: Visualización con ggplot    Sesión 1: La gramática de gráficos y ggplot  Introducción Atributos estéticos: aesthetics Formas: geoms Gráficos por sub grupos: facets  Sesión 2: La gramática de gráficos y ggplot  Transforms Ajustar posiciones Ejercicios  Gráficos de Torta Gráficos de Barra Gráficos de Línea    Módulo 2: Importar datos   R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online).</description>
     </item>
     
   </channel>
