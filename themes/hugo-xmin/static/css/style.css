@@ -49,3 +49,27 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+/* Custom styles */
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* Imagen Bibliografía */
+.bib-img {
+  margin: 0px 40px 20px 20px;
+  max-width:15%;
+  min-width:40px;
+  float:left;
+}
+
+/* Texto biblio */
+
+.bib-text {
+  margin-top: 40px;
+  margin-left: 150px;
+  margin-right: 140px;
+
+}
