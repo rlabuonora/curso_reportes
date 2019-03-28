@@ -4,7 +4,7 @@ title: Cronograma
 
 
 
-## Módulo 0: Preliminares <a style="float:right;" href="https://modulo0.netlify.com/"><i class="far fa-sticky-note"></i></a>
+## Módulo 0: Preliminares
 <hr>
 + Sesión 1
     + Presentación y objetivos.
