@@ -17,5 +17,3 @@ El curso incluye 10 sesiones presenciales en las que se exponene las principales
 
 El ambiente de trabajo para desarrollar  esta solución es [RStudio Cloud](https://rstudio.cloud/), por lo que los participantes deben tener una cuenta en el sitio.
 
-# Sesiones:
-
