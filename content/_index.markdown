@@ -2,7 +2,6 @@
 title: Inicio
 ---
 
-<img src="http://mercury.webster.edu/aleshunas/R_learning_infrastructure/images/R.png" style="max-width:15%;min-width:40px;float:right;margin: 10px;" alt="Github repo" />
 
 
 

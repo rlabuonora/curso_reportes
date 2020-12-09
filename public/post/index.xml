@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Reportes Automáticos</title>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/02/02/tour-r/</guid>
-      <description> Un Tour de R En este taller damos un panorama de las capacidades de R y como presentamos algunos casos de uso. Presentamos las principales ventajas de R, la comunidad y los principales recursos disponibles para aprender el lenguaje y las principales librerías.
+      <description>Un Tour de R En este taller damos un panorama de las capacidades de R y como presentamos algunos casos de uso. Presentamos las principales ventajas de R, la comunidad y los principales recursos disponibles para aprender el lenguaje y las principales librerías.
 Objetivos Luego de esta clase, los participantes tienen:
  Una cuenta en RStudio Cloud. Acceso al sitio del curso  </description>
     </item>

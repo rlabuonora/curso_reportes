@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on Reportes Automáticos</title>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2019/02/02/tour-r/</guid>
-      <description> Un Tour de R En este taller damos un panorama de las capacidades de R y como presentamos algunos casos de uso. Presentamos las principales ventajas de R, la comunidad y los principales recursos disponibles para aprender el lenguaje y las principales librerías.
+      <description>Un Tour de R En este taller damos un panorama de las capacidades de R y como presentamos algunos casos de uso. Presentamos las principales ventajas de R, la comunidad y los principales recursos disponibles para aprender el lenguaje y las principales librerías.
 Objetivos Luego de esta clase, los participantes tienen:
  Una cuenta en RStudio Cloud. Acceso al sitio del curso  </description>
     </item>
@@ -28,7 +28,7 @@ Objetivos Luego de esta clase, los participantes tienen:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bibliografia/</guid>
-      <description>El curso se basa en el libro R para Ciencia de Datos  de Garrett Grolemund y Hadley Wickham. Las sesiones presenciales tienen links a materiales de otras fuentes.   </description>
+      <description></description>
     </item>
     
     <item>
@@ -37,7 +37,8 @@ Objetivos Luego de esta clase, los participantes tienen:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cronograma/</guid>
-      <description>Módulo 0: Preliminares   Sesión 1  Presentación y objetivos. Estructura del curso y de las sesiones presenciales. R, RStudio, RStudio Cloud.   Módulo 1: Importar datos  R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online). En este módulo nos centramos en las funciones para importar desde archivos de texto y planillas de excel.</description>
+      <description>Módulo 0: Preliminares Módulo 1: Importar datos R permite importar datos desde una gran variedad de fuentes (archivos de texto plano, formatos de otros paquetes estadísticos, bases de datos relacionales y APIs online). En este módulo nos centramos en las funciones para importar desde archivos de texto y planillas de excel.
+ Sesión 2: Importar datos con readr  Importar archivos de texto plano con read_csv() Importar archivos de excel con read_xls() y read_xlsx()    Módulo 2: Transformar Datos con dplyr   Sesión 3: dplyr (1)</description>
     </item>
     
   </channel>
