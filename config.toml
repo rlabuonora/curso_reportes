@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://reportes.rlabuonora.com/"
 languageCode = "en-us"
 title = "Reportes Automáticos"
 theme = "hugo-xmin"
